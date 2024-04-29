@@ -1,0 +1,5 @@
+# ninja log v5
+2	183	1708131682495877974	CMakeFiles/Lab4.dir/file_operation.c.o	13bd68e04d991f8a
+2	182	1708131682494802817	CMakeFiles/Lab4.dir/file_operation_test.c.o	eae517f4c6ea7e0b
+183	277	1708131682589613108	Lab4	2ab87982940233fa
+1	183	1708131682494792942	CMakeFiles/Lab4.dir/main.c.o	a419065f9e7bc02a

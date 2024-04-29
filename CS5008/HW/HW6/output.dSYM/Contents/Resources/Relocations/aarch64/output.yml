@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     output
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _test_empty_array, symObjAddr: 0x0, symBinAddr: 0x100002E70, symSize: 0xA4 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _test_empty_array, symObjAddr: 0x0, symBinAddr: 0x100002E70, symSize: 0xA4 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _test_one_element_array, symObjAddr: 0xA4, symBinAddr: 0x100002F14, symSize: 0xB4 }
+  - { offsetInCU: 0xE5, offset: 0xE5, size: 0x8, addend: 0x0, symName: _test_one_negative_element_array, symObjAddr: 0x158, symBinAddr: 0x100002FC8, symSize: 0xB0 }
+  - { offsetInCU: 0x137, offset: 0x137, size: 0x8, addend: 0x0, symName: _test_one_positive_one_negative_element_array, symObjAddr: 0x208, symBinAddr: 0x100003078, symSize: 0xF4 }
+  - { offsetInCU: 0x189, offset: 0x189, size: 0x8, addend: 0x0, symName: _test_all_negative_elements, symObjAddr: 0x2FC, symBinAddr: 0x10000316C, symSize: 0xF8 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: _test_all_positive_elements, symObjAddr: 0x3F4, symBinAddr: 0x100003264, symSize: 0xFC }
+  - { offsetInCU: 0x22D, offset: 0x22D, size: 0x8, addend: 0x0, symName: _test_negative_elements_at_last_index, symObjAddr: 0x4F0, symBinAddr: 0x100003360, symSize: 0xFC }
+  - { offsetInCU: 0x27F, offset: 0x27F, size: 0x8, addend: 0x0, symName: _test_middle_element_as_negative, symObjAddr: 0x5EC, symBinAddr: 0x10000345C, symSize: 0xFC }
+  - { offsetInCU: 0x2D1, offset: 0x2D1, size: 0x8, addend: 0x0, symName: _test_same_negative_elements, symObjAddr: 0x6E8, symBinAddr: 0x100003558, symSize: 0xFC }
+  - { offsetInCU: 0x323, offset: 0x323, size: 0x8, addend: 0x0, symName: _test_array_with_large_element, symObjAddr: 0x7E4, symBinAddr: 0x100003654, symSize: 0x15C }
+  - { offsetInCU: 0x3AD, offset: 0x3AD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x940, symBinAddr: 0x1000037B0, symSize: 0x108 }
+  - { offsetInCU: 0x26, offset: 0x458, size: 0x8, addend: 0x0, symName: _trinary_search, symObjAddr: 0x0, symBinAddr: 0x1000038B8, symSize: 0x168 }
+  - { offsetInCU: 0x33, offset: 0x465, size: 0x8, addend: 0x0, symName: _trinary_search, symObjAddr: 0x0, symBinAddr: 0x1000038B8, symSize: 0x168 }
+  - { offsetInCU: 0xCB, offset: 0x4FD, size: 0x8, addend: 0x0, symName: _crossover, symObjAddr: 0x168, symBinAddr: 0x100003A20, symSize: 0xAC }
+...

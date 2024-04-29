@@ -1,0 +1,7 @@
+# ninja log v5
+180	268	1708649060604523080	code	bfb84ea6003c340b
+1	178	1708648691362689353	CMakeFiles/code.dir/hashtable.c.o	7ab8907afdb33d93
+0	57	1708652539966863540	build.ninja	e57f64f082ea049
+1	180	1708649060516008410	CMakeFiles/code.dir/try_hashtable.c.o	ba2565aaa6ef85bf
+1	198	1708650576087173423	CMakeFiles/code.dir/tests_hashtable.c.o	84f7372257066a86
+0	180	1708487337329343752	CMakeFiles/code.dir/test_hashtable.c.o	f2426f2fc5e63444

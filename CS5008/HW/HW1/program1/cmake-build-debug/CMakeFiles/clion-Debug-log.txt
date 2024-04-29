@@ -1,0 +1,13 @@
+/Users/duomi/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/duomi/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/duomi/Developer/Spring2024/CS5008/HW1/program1 -B /Users/duomi/Developer/Spring2024/CS5008/HW1/program1/cmake-build-debug
+-- Configuring done (0.0s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    program1/printnumbers.c
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: HW1
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

@@ -1,0 +1,3 @@
+/Users/duomi/Developer/Spring2024/CS5008/Lab2/prorgam2/cmake-build-debug/CMakeFiles/prorgam2.dir
+/Users/duomi/Developer/Spring2024/CS5008/Lab2/prorgam2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duomi/Developer/Spring2024/CS5008/Lab2/prorgam2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

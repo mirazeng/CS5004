@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     try_deque
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _make_empty_deque, symObjAddr: 0x0, symBinAddr: 0x1000037AC, symSize: 0x20 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _make_empty_deque, symObjAddr: 0x0, symBinAddr: 0x1000037AC, symSize: 0x20 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: _delete_deque, symObjAddr: 0x20, symBinAddr: 0x1000037CC, symSize: 0x74 }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: _add_front, symObjAddr: 0x94, symBinAddr: 0x100003840, symSize: 0x68 }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: _make_node, symObjAddr: 0xFC, symBinAddr: 0x1000038A8, symSize: 0x48 }
+  - { offsetInCU: 0x166, offset: 0x166, size: 0x8, addend: 0x0, symName: _add_back, symObjAddr: 0x144, symBinAddr: 0x1000038F0, symSize: 0x98 }
+  - { offsetInCU: 0x1A6, offset: 0x1A6, size: 0x8, addend: 0x0, symName: _get_front, symObjAddr: 0x1DC, symBinAddr: 0x100003988, symSize: 0x88 }
+  - { offsetInCU: 0x1CE, offset: 0x1CE, size: 0x8, addend: 0x0, symName: _get_back, symObjAddr: 0x264, symBinAddr: 0x100003A10, symSize: 0x88 }
+  - { offsetInCU: 0x1F6, offset: 0x1F6, size: 0x8, addend: 0x0, symName: _remove_front, symObjAddr: 0x2EC, symBinAddr: 0x100003A98, symSize: 0x88 }
+  - { offsetInCU: 0x236, offset: 0x236, size: 0x8, addend: 0x0, symName: _remove_back, symObjAddr: 0x374, symBinAddr: 0x100003B20, symSize: 0x100 }
+  - { offsetInCU: 0x284, offset: 0x284, size: 0x8, addend: 0x0, symName: _deque_size, symObjAddr: 0x474, symBinAddr: 0x100003C20, symSize: 0x58 }
+  - { offsetInCU: 0x2C8, offset: 0x2C8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x4CC, symBinAddr: 0x100003C78, symSize: 0x220 }
+...

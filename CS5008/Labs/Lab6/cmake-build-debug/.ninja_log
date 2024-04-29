@@ -1,0 +1,6 @@
+# ninja log v5
+0	55	1712614059104863332	build.ninja	67604a1ff58f4fe0
+2	170	1710538568201361340	CMakeFiles/Lab6.dir/double_linked_list.c.o	ba0f2b1ccc6f26ab
+174	281	1710540391800573444	Lab6	5ab47402e1a4d8d9
+2	142	1710540391660760994	CMakeFiles/Lab6.dir/search_range.c.o	fc0fd09cdd47bb9
+2	174	1710540391695054084	CMakeFiles/Lab6.dir/binsearch_dll.c.o	bb9a459de8e8de6e

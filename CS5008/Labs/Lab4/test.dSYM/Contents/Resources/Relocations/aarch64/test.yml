@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     test
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _read_file_lines, symObjAddr: 0x0, symBinAddr: 0x100003124, symSize: 0x114 }
+  - { offsetInCU: 0x4E, offset: 0x4E, size: 0x8, addend: 0x0, symName: _read_file_lines, symObjAddr: 0x0, symBinAddr: 0x100003124, symSize: 0x114 }
+  - { offsetInCU: 0xA0, offset: 0xA0, size: 0x8, addend: 0x0, symName: _read_first_word, symObjAddr: 0x114, symBinAddr: 0x100003238, symSize: 0x138 }
+  - { offsetInCU: 0xF3, offset: 0xF3, size: 0x8, addend: 0x0, symName: _count_assembly_code, symObjAddr: 0x24C, symBinAddr: 0x100003370, symSize: 0x31C }
+  - { offsetInCU: 0x202, offset: 0x202, size: 0x8, addend: 0x0, symName: _count_cycles_assembly, symObjAddr: 0x568, symBinAddr: 0x10000368C, symSize: 0xAC }
+  - { offsetInCU: 0x26, offset: 0x4CB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003738, symSize: 0x314 }
+  - { offsetInCU: 0x47, offset: 0x4EC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003738, symSize: 0x314 }
+  - { offsetInCU: 0x26, offset: 0x83D, size: 0x8, addend: 0x0, symName: _test_read_file_lines_regular, symObjAddr: 0x0, symBinAddr: 0x100003A4C, symSize: 0x98 }
+  - { offsetInCU: 0x41, offset: 0x858, size: 0x8, addend: 0x0, symName: _test_read_file_lines_regular, symObjAddr: 0x0, symBinAddr: 0x100003A4C, symSize: 0x98 }
+  - { offsetInCU: 0x69, offset: 0x880, size: 0x8, addend: 0x0, symName: _test_read_file_lines_empty, symObjAddr: 0x98, symBinAddr: 0x100003AE4, symSize: 0x98 }
+  - { offsetInCU: 0x91, offset: 0x8A8, size: 0x8, addend: 0x0, symName: _test_read_file_lines_nonexistent, symObjAddr: 0x130, symBinAddr: 0x100003B7C, symSize: 0x88 }
+...

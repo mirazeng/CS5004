@@ -1,0 +1,34 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     test_deque
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _make_empty_deque, symObjAddr: 0x0, symBinAddr: 0x10000220C, symSize: 0x38 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _make_empty_deque, symObjAddr: 0x0, symBinAddr: 0x10000220C, symSize: 0x38 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: _delete_deque, symObjAddr: 0x38, symBinAddr: 0x100002244, symSize: 0x74 }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: _add_front, symObjAddr: 0xAC, symBinAddr: 0x1000022B8, symSize: 0x68 }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: _make_node, symObjAddr: 0x114, symBinAddr: 0x100002320, symSize: 0x48 }
+  - { offsetInCU: 0x166, offset: 0x166, size: 0x8, addend: 0x0, symName: _add_back, symObjAddr: 0x15C, symBinAddr: 0x100002368, symSize: 0x98 }
+  - { offsetInCU: 0x1A6, offset: 0x1A6, size: 0x8, addend: 0x0, symName: _get_front, symObjAddr: 0x1F4, symBinAddr: 0x100002400, symSize: 0x74 }
+  - { offsetInCU: 0x1DC, offset: 0x1DC, size: 0x8, addend: 0x0, symName: _get_back, symObjAddr: 0x268, symBinAddr: 0x100002474, symSize: 0x74 }
+  - { offsetInCU: 0x212, offset: 0x212, size: 0x8, addend: 0x0, symName: _remove_front, symObjAddr: 0x2DC, symBinAddr: 0x1000024E8, symSize: 0x88 }
+  - { offsetInCU: 0x252, offset: 0x252, size: 0x8, addend: 0x0, symName: _remove_back, symObjAddr: 0x364, symBinAddr: 0x100002570, symSize: 0x100 }
+  - { offsetInCU: 0x2A0, offset: 0x2A0, size: 0x8, addend: 0x0, symName: _deque_size, symObjAddr: 0x464, symBinAddr: 0x100002670, symSize: 0x58 }
+  - { offsetInCU: 0x2E4, offset: 0x2E4, size: 0x8, addend: 0x0, symName: _test_make_empty_deque, symObjAddr: 0x4BC, symBinAddr: 0x1000026C8, symSize: 0xA4 }
+  - { offsetInCU: 0x30C, offset: 0x30C, size: 0x8, addend: 0x0, symName: _test_delete_empty_deque, symObjAddr: 0x560, symBinAddr: 0x10000276C, symSize: 0xA4 }
+  - { offsetInCU: 0x334, offset: 0x334, size: 0x8, addend: 0x0, symName: _test_delete_one_element_deque, symObjAddr: 0x604, symBinAddr: 0x100002810, symSize: 0xB0 }
+  - { offsetInCU: 0x35C, offset: 0x35C, size: 0x8, addend: 0x0, symName: _test_delete_deque, symObjAddr: 0x6B4, symBinAddr: 0x1000028C0, symSize: 0xE0 }
+  - { offsetInCU: 0x3A0, offset: 0x3A0, size: 0x8, addend: 0x0, symName: _test_add_front_to_empty_deque, symObjAddr: 0x794, symBinAddr: 0x1000029A0, symSize: 0xF0 }
+  - { offsetInCU: 0x3E4, offset: 0x3E4, size: 0x8, addend: 0x0, symName: _test_add_front_one_element_deque, symObjAddr: 0x884, symBinAddr: 0x100002A90, symSize: 0xBC }
+  - { offsetInCU: 0x40C, offset: 0x40C, size: 0x8, addend: 0x0, symName: _test_add_front_to_regular_deque, symObjAddr: 0x940, symBinAddr: 0x100002B4C, symSize: 0xFC }
+  - { offsetInCU: 0x450, offset: 0x450, size: 0x8, addend: 0x0, symName: _test_add_back_to_empty_deque, symObjAddr: 0xA3C, symBinAddr: 0x100002C48, symSize: 0xF0 }
+  - { offsetInCU: 0x494, offset: 0x494, size: 0x8, addend: 0x0, symName: _test_add_back_to_regular_deque, symObjAddr: 0xB2C, symBinAddr: 0x100002D38, symSize: 0xFC }
+  - { offsetInCU: 0x4D8, offset: 0x4D8, size: 0x8, addend: 0x0, symName: _test_get_front_empty_deque, symObjAddr: 0xC28, symBinAddr: 0x100002E34, symSize: 0x90 }
+  - { offsetInCU: 0x500, offset: 0x500, size: 0x8, addend: 0x0, symName: _test_get_front_regular_deque, symObjAddr: 0xCB8, symBinAddr: 0x100002EC4, symSize: 0xD0 }
+  - { offsetInCU: 0x544, offset: 0x544, size: 0x8, addend: 0x0, symName: _test_get_back_empty_deque, symObjAddr: 0xD88, symBinAddr: 0x100002F94, symSize: 0x7C }
+  - { offsetInCU: 0x56C, offset: 0x56C, size: 0x8, addend: 0x0, symName: _test_get_back_regular_deque, symObjAddr: 0xE04, symBinAddr: 0x100003010, symSize: 0xD0 }
+  - { offsetInCU: 0x5B0, offset: 0x5B0, size: 0x8, addend: 0x0, symName: _test_remove_front_empty, symObjAddr: 0xED4, symBinAddr: 0x1000030E0, symSize: 0x98 }
+  - { offsetInCU: 0x5DA, offset: 0x5DA, size: 0x8, addend: 0x0, symName: _test_remove_front_regular_deque, symObjAddr: 0xF6C, symBinAddr: 0x100003178, symSize: 0xD0 }
+  - { offsetInCU: 0x621, offset: 0x621, size: 0x8, addend: 0x0, symName: _test_remove_back_empty, symObjAddr: 0x103C, symBinAddr: 0x100003248, symSize: 0x98 }
+  - { offsetInCU: 0x64B, offset: 0x64B, size: 0x8, addend: 0x0, symName: _test_remove_back_regular_deque, symObjAddr: 0x10D4, symBinAddr: 0x1000032E0, symSize: 0xD0 }
+  - { offsetInCU: 0x692, offset: 0x692, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x11A4, symBinAddr: 0x1000033B0, symSize: 0x180 }
+...

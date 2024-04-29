@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     output
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _makenode, symObjAddr: 0x0, symBinAddr: 0x1000030D8, symSize: 0x48 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _makenode, symObjAddr: 0x0, symBinAddr: 0x1000030D8, symSize: 0x48 }
+  - { offsetInCU: 0xF1, offset: 0xF1, size: 0x8, addend: 0x0, symName: _init, symObjAddr: 0x48, symBinAddr: 0x100003120, symSize: 0x40 }
+  - { offsetInCU: 0x119, offset: 0x119, size: 0x8, addend: 0x0, symName: _destroy, symObjAddr: 0x88, symBinAddr: 0x100003160, symSize: 0x68 }
+  - { offsetInCU: 0x167, offset: 0x167, size: 0x8, addend: 0x0, symName: _add_back, symObjAddr: 0xF0, symBinAddr: 0x1000031C8, symSize: 0x94 }
+  - { offsetInCU: 0x1A7, offset: 0x1A7, size: 0x8, addend: 0x0, symName: _merge, symObjAddr: 0x184, symBinAddr: 0x10000325C, symSize: 0x100 }
+  - { offsetInCU: 0x1F9, offset: 0x1F9, size: 0x8, addend: 0x0, symName: _find_mid, symObjAddr: 0x284, symBinAddr: 0x10000335C, symSize: 0x88 }
+  - { offsetInCU: 0x24B, offset: 0x24B, size: 0x8, addend: 0x0, symName: _sort_list, symObjAddr: 0x30C, symBinAddr: 0x1000033E4, symSize: 0xDC }
+  - { offsetInCU: 0x2AB, offset: 0x2AB, size: 0x8, addend: 0x0, symName: _my_mergesort, symObjAddr: 0x3E8, symBinAddr: 0x1000034C0, symSize: 0x94 }
+  - { offsetInCU: 0x26, offset: 0x311, size: 0x8, addend: 0x0, symName: _test_merge_empty, symObjAddr: 0x0, symBinAddr: 0x100003554, symSize: 0xB4 }
+  - { offsetInCU: 0x41, offset: 0x32C, size: 0x8, addend: 0x0, symName: _test_merge_empty, symObjAddr: 0x0, symBinAddr: 0x100003554, symSize: 0xB4 }
+  - { offsetInCU: 0x69, offset: 0x354, size: 0x8, addend: 0x0, symName: _test_merge_one_element, symObjAddr: 0xB4, symBinAddr: 0x100003608, symSize: 0xE0 }
+  - { offsetInCU: 0x91, offset: 0x37C, size: 0x8, addend: 0x0, symName: _test_merge_two_elements, symObjAddr: 0x194, symBinAddr: 0x1000036E8, symSize: 0x100 }
+  - { offsetInCU: 0xB9, offset: 0x3A4, size: 0x8, addend: 0x0, symName: _test_merge_ten_elements, symObjAddr: 0x294, symBinAddr: 0x1000037E8, symSize: 0x164 }
+  - { offsetInCU: 0x10B, offset: 0x3F6, size: 0x8, addend: 0x0, symName: _test_merge_large_list, symObjAddr: 0x3F8, symBinAddr: 0x10000394C, symSize: 0x120 }
+  - { offsetInCU: 0x179, offset: 0x464, size: 0x8, addend: 0x0, symName: _test_merge_sorted_list, symObjAddr: 0x518, symBinAddr: 0x100003A6C, symSize: 0x164 }
+  - { offsetInCU: 0x1CB, offset: 0x4B6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x67C, symBinAddr: 0x100003BD0, symSize: 0xB8 }
+...
