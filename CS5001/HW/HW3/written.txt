@@ -1,0 +1,30 @@
+Wenqing Zeng
+CS 5001 Fall2023
+Homework 3 Written Component
+
+Written #1
+1A 
+It is not a infinite loop 
+There is no error
+
+Danger, Will Robinson!
+Danger, Will Robinson!
+Danger, Will Robinson!
+
+1B
+It is not a infinite loop 
+There is no error
+
+Lost in Space!
+
+1C
+It is a Infinite loop
+The loop will keep on printing out "Jupiter-2 ", we will never reach the 5th line
+
+
+Written #2
+2A
+Option 1
+
+2B
+2

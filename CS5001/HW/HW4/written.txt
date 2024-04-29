@@ -1,0 +1,27 @@
+Wenqing Zeng
+CS 5001 Fall2023
+Homework 4 Written Component
+
+Written #1
+1A IndexError
+
+
+1B TypeError
+
+
+1C TypeError
+
+
+
+Written #2
+2A
+3
+4
+5
+8
+9
+10
+
+2B
+[3,4,5]
+[8.9,10]

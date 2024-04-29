@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-09-27T23:16:45.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0" etag="zZJZkieCMPkNxlBqreV8" version="21.8.0" type="device">
+  <diagram name="Page-1" id="u9OxnCh3eeDMozUKfS5A">
+    <mxGraphModel dx="1627" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4500" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fmwUlswrhmZoSSTruwt5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-3" target="fmwUlswrhmZoSSTruwt5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-3" value="&lt;div&gt;import &lt;br&gt;&lt;/div&gt;&lt;div&gt;conversion functions &lt;br&gt;&lt;/div&gt;&lt;div&gt;from files&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-6" target="fmwUlswrhmZoSSTruwt5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-6" value="&lt;div&gt;define a founction &lt;br&gt;&lt;/div&gt;&lt;div&gt;to calculate &lt;br&gt;&lt;/div&gt;&lt;div&gt;windchill index&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="485.5" y="360" width="132" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-7" target="fmwUlswrhmZoSSTruwt5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-7" value="&lt;div&gt;identify constance&lt;/div&gt;&lt;div&gt;(conversion factor)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-9" target="fmwUlswrhmZoSSTruwt5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-9" value="&lt;div&gt;convert test temperature &lt;br&gt;&lt;/div&gt;&lt;div&gt;in celsius &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-11" target="fmwUlswrhmZoSSTruwt5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-11" value="&lt;div&gt;convert test speed&lt;br&gt;&lt;/div&gt;&lt;div&gt;in kilometer &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-12" target="fmwUlswrhmZoSSTruwt5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-12" value="Start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="91" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-13" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="920" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-22" target="fmwUlswrhmZoSSTruwt5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-22" value="call helper function compute to windchill index in metric" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-24" target="fmwUlswrhmZoSSTruwt5-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-24" value="call conversion function to covert metric to fahrenheit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-32" target="fmwUlswrhmZoSSTruwt5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-32" value="&lt;div&gt;packing &lt;br&gt;&lt;/div&gt;&lt;div&gt;windchill formula&lt;/div&gt;&lt;div&gt;&amp;nbsp;as a helper function &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551.5000000000002" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-49" value="return the result" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-57" target="fmwUlswrhmZoSSTruwt5-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-57" value="&lt;div&gt;adding doctest &lt;br&gt;&lt;/div&gt;&lt;div&gt;to function calculate_windchill&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-58" target="fmwUlswrhmZoSSTruwt5-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-58" value="enter expected result" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmwUlswrhmZoSSTruwt5-60" target="fmwUlswrhmZoSSTruwt5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmwUlswrhmZoSSTruwt5-60" value="check doctest result" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

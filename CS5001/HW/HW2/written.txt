@@ -1,0 +1,38 @@
+Wenqing Zeng
+CS 5001 Fall2023
+Homework 2 Written Component
+
+Written #1
+1A print_formatted(“mia”)
+
+1B result = get_max(2,4)
+	
+1C result = log_base_two(8)
+	
+Written #2
+Because in function divide(x, y)
+Immediately, it followed a return statement
+The whole function is completed already, and will not execute onto next step
+Therefore, that is why line 3 never execute in this snippet
+
+Written #3
+3A 
+	19 
+	18 
+
+3B 
+	19 
+	18 
+	19
+
+Written #4
+I will choose Function1 because 
+	1.Function 1 has only one function. However, function 2 has one more function: print(), 
+	will execute more step than function 1. And it does not fit into modular as many small, single-purpose functions
+	2.Function 1 can be tested but function 2 can only be eyeballed
+	3.Function 1 returns value and is reusable 
+
+Written #5
+5A def divide_annotate(x : float, y : float) -> float:
+
+5B Annotations offers guidance to programmer to ensure correct data type

@@ -1,0 +1,17 @@
+Wenqing Zeng
+CS 5001 Fall2023
+Homework 1 Written Component
+
+Written #1
+1A: float
+1B: int
+1C: float
+1D: string
+1E: string
+
+Written #2
+2A: 1.4
+2B: 1.4
+2C: 1
+2D: 2
+2E: 1
