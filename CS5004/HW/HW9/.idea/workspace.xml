@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HW9:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8302bbd5-0318-442d-adee-8a2c94fb5e9b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2etEouWkc2RNK3qB4Ou8rCTlVxY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.PAM - local view.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PAM - web view.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhotoAlbumMain-webview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhotoAlbumMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhotoAlbumView.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JAR Application.HW9.jar.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in HW9.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAlbumController.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestAlbumController.testWebView.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestModel in HW9.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.getCurrentSnapshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.getCurrentSnapshotID.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testGetCurrentSnapshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testGetCurrentSnapshotID.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testGetPrevSnapshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testNextSnapshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testOutOfBoundsSnapshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testOutofBoundsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestShapeAlbum.testSetCurrentSnapshotByID.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;311&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/duomi/Developer/Spring2024/CS5004/HW9/test/TestModel&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/TestModel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in HW9">
+    <configuration name="PAM - local view" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PhotoAlbumMain" />
+      <module name="HW9" />
+      <option name="PROGRAM_PARAMETERS" value="-in buildings.txt -v graphical 800 800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PAM - web view" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PhotoAlbumMain" />
+      <module name="HW9" />
+      <option name="PROGRAM_PARAMETERS" value="-in buildings.txt -out myWeb.html  -v web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in HW9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlbumController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestController" />
+      <option name="MAIN_CLASS_NAME" value="TestController.TestAlbumController" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlbumController.testWebView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestController" />
+      <option name="MAIN_CLASS_NAME" value="TestController.TestAlbumController" />
+      <option name="METHOD_NAME" value="testWebView" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShapeAlbum.testOutOfBoundsSnapshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestModel" />
+      <option name="MAIN_CLASS_NAME" value="TestModel.TestShapeAlbum" />
+      <option name="METHOD_NAME" value="testOutOfBoundsSnapshot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShapeAlbum.testOutofBoundsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestModel" />
+      <option name="MAIN_CLASS_NAME" value="TestModel.TestShapeAlbum" />
+      <option name="METHOD_NAME" value="testOutofBoundsException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PAM - local view" />
+      <item itemvalue="Application.PAM - web view" />
+      <item itemvalue="JUnit.TestAlbumController" />
+      <item itemvalue="JUnit.TestAlbumController.testWebView" />
+      <item itemvalue="JUnit.TestShapeAlbum.testOutOfBoundsSnapshot" />
+      <item itemvalue="JUnit.TestShapeAlbum.testOutofBoundsException" />
+      <item itemvalue="JUnit.All in HW9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in HW9" />
+        <item itemvalue="JUnit.TestAlbumController" />
+        <item itemvalue="JUnit.TestAlbumController.testWebView" />
+        <item itemvalue="JUnit.TestShapeAlbum.testOutOfBoundsSnapshot" />
+        <item itemvalue="JUnit.TestShapeAlbum.testOutofBoundsException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8302bbd5-0318-442d-adee-8a2c94fb5e9b" name="Changes" comment="" />
+      <created>1712715651717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712715651717</updated>
+      <workItem from="1712715653239" duration="1749000" />
+      <workItem from="1712717412409" duration="79458000" />
+      <workItem from="1713307704468" duration="3748000" />
+      <workItem from="1713404001583" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW9$All_in_HW9.ic" NAME="All in HW9 Coverage Results" MODIFIED="1713229458088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

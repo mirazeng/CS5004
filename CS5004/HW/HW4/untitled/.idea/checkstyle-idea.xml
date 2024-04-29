@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>8.41.1</checkstyleVersion>
+    <scanScope>JavaOnlyWithTests</scanScope>
+    <suppressErrors>true</suppressErrors>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="98e8b5bb-6207-45c0-8e8a-224931df702a" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="2de67e0b-90fb-412c-92dc-b79ea7cc1fb5" type="LOCAL_FILE" scope="All" description="5004">$PROJECT_DIR$/../../cs5004-checkstyle-edited-google-checks.xml</ConfigurationLocation>
+        <ConfigurationLocation id="98e8b5bb-6207-45c0-8e8a-224931df702a" type="LOCAL_FILE" scope="All" description="Google-Check-For-5004">$USER_HOME$/Desktop/cs5004-checkstyle-edited-google-checks.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>

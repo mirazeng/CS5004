@@ -1,0 +1,10 @@
+========== when elaspedtime is 5 ==============
+Displacement = 1.7320508075688772
+Prof. Keith is on the move! His Velocity =0.34641016151377546
+
+========== when elaspedtime is 0 ==============
+Displacement = 1.7320508075688772
+Encountered an error: the elapsedTime is <= 0
+
+The main driver function indeed catches the exception when the input
+elapsedTime is 0 and print message to warn the user. 
